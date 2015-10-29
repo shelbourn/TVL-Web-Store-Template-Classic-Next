@@ -140,7 +140,7 @@ input, select, textarea {
 /* Logo */
 .header-logo {
     float: left;
-    height: 100px;
+    vertical-align: top;
 }
 
 #cookieNotification {
